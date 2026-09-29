@@ -12,7 +12,7 @@ import { Reveal } from "@/components/ui/Reveal";
 import { Section } from "@/components/ui/Section";
 
 const googleReviewsUrl =
-  "https://www.google.com/search?q=plumber+in+usa+review&sca_esv=09f6b64e4a377864&biw=1920&bih=945&sxsrf=APpeQnuHTr_JV6k85Rtx4MFZQwPQ-EpI2g%3A1790673666957&ei=AoO7aov-OZGJxc8P08v1oQU&uact=5&oq=plumber+in+usa+review&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXBsdW1iZXIgaW4gdXNhIHJldmlldzIGEAAYFhgeMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBEjILFDaAViWKnADeAGQAQCYAe4BoAGfD6oBAzItObgBA8gBAPgBAZgCDKAC1Q_CAgoQABhHGNYEGLADwgINEAAYgAQYigUYQxiwA8ICFxAuGNwGGLgGGNoGGNgCGMgDGLAD2AEBwgIFEAAYgATCAggQABgWGB4YCsICBRAhGKABmAMAiAYBkAYNugYECAEYGZIHBTMuMC45oAftLLIHAzItObgHyA_CBwUwLjguNMgHIIAIAQ&sclient=gws-wiz-serp#lrd=0x89006c6f295ca6d3:0xc0de83b998573b71,1,,,,";
+  "https://www.google.com/maps/place/USA+Plumbing/@33.7070198,-78.9046448,17z/data=!4m15!1m8!3m7!1s0x89006c6f295ca6d3:0xc0de83b998573b71!2sUSA+Plumbing!8m2!3d33.7070198!4d-78.9046448!10e1!16s%2Fg%2F11g7zw62cx!3m5!1s0x89006c6f295ca6d3:0xc0de83b998573b71!8m2!3d33.7070198!4d-78.9046448!16s%2Fg%2F11g7zw62cx?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D";
 
 function Stars({ size = "md" }: { size?: "sm" | "md" }) {
   return (
